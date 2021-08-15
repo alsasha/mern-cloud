@@ -1,0 +1,22 @@
+.navbar {
+  padding: 20px 0;
+
+  * {
+    text-decoration: none;
+  }
+
+  &-logo {
+    cursor: pointer;
+  }
+
+  &-image {
+    width: 50px;
+    margin-right: 10px;
+  }
+
+  &-title {
+    text-transform: uppercase;
+    color: tomato;
+    font-weight: 700;
+  }
+}
